@@ -74,7 +74,7 @@ Loan providers face challenges in assessing loan applications due to insufficien
 ## **How to Use**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/loan-default-risk-analysis.git
+   git clone https://github.com/Kennny7/Credit-EDA-Case-Study.git
    ```
 2. Install dependencies:
    ```bash
@@ -82,7 +82,7 @@ Loan providers face challenges in assessing loan applications due to insufficien
    ```
 3. Run the Jupyter notebook:
    ```bash
-   jupyter notebook Loan_Default_Analysis.ipynb
+   jupyter notebook CaseStudy.ipynb
    ```
 
 ---
